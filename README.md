@@ -2,12 +2,25 @@
 
 ### Introduction
 
-One of my tasks as a Data Analyst was to compare several text files by manually manipulating data on Microsoft Excel (spreadsheet) prior to updating the Market Metrics mobile application. At the beginning of each quarter, every ‘iPad’ client would deliver a list of their ‘Broker Dealer Exclusion IDs’ or ‘BDE IDs’ that were related to certain data/transactions that each client did not want to see in their account linked with the Market Metrics app. As part of the process, these lists (or txt files) containing the BDE IDs were compared to those lists submitted by each iPad client during the previous quarter.
-One of my goals at some point during my career would be to automate a manual process using Python, to reduce some of the work done manually.
+One of the Data Analysts' task was to compare several text files by manually manipulating data on Microsoft Excel (spreadsheet) 
+prior to updating the Market Metrics mobile application. At the beginning of each quarter, every ‘iPad’ client would deliver a list 
+of their ‘Exclusion IDs’ or ‘BDE IDs’ that were related to certain data/transactions that each client did not want to see in their 
+account linked with the Market Metrics app. As part of the process, these lists (or txt files) containing the BDE IDs were compared 
+to those lists submitted by each iPad client during the previous quarter. This automation process using Python, reduced some of the 
+work done manually by analysts.
 
-### NOTE:
-The Text File Comparer Automation Project does not include a writing sample. Please note that the script will not run on your computer since the data gets extracted from a file path within the author’s personal laptop. However, the automation code includes notes or comments that clearly explain each step and the logic behind every code line.
+### NOTE 1:
+The Text File Comparer Automation Project does not include a writing sample. Please note that the script will not run on your computer 
+since the data gets extracted from a file path within the author’s personal laptop. However, the automation code includes notes or 
+comments that clearly explain each step and the logic behind every code line.
 
+### NOTE 2: 
+Dummy data was used to generate exclusion IDs, meaning that these are not relevant and do NOT hold any value for any 
+employer, organization or institution. The goal of this project is to mimic an algorithm based on another 
+experiment/prototype.
+
+### Testing Folder Directory Tree
+<img src="Images/Testing_File_Directory_Tree.png" width="50%">
 
 ### What's included in this repository?
 
