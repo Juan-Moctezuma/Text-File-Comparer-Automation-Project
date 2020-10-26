@@ -35,6 +35,7 @@ They simply open an IDE; ran the code & then had to enter the following: client'
 
 1. Automation_Script.py (TEXT FILE COMPARER - comments included within the code)
 2. Text_File_Comparer_Automation_Project.pptx
+3. Automation Testing Folder (txt files)
 
 ### Technologies
 
