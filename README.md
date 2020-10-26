@@ -19,8 +19,11 @@ Dummy data was used to generate exclusion IDs, meaning that these are not releva
 employer, organization or institution. The goal of this project is to mimic an algorithm based on another 
 experiment/prototype.
 
-### TEXT COMPARER GIF
+### TEXT COMPARER PYTHON SCRIPT IN ACTION:
 <img src="Images/TextFileComparer.gif" width="80%">
+
+### MANUAL LABOR PERFORMED IN EXCEL:
+<img src="Images/textComparerManual.gif" width="80%">
 
 ### How do analysts ran this code?
 They simply open an IDE; ran the code & then had to enter the following: client's name, & the pair of quarters being compared.
