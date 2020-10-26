@@ -28,7 +28,7 @@ experiment/prototype.
 ### How do analysts ran this code?
 They simply open an IDE; ran the code & then had to enter the following: client's name, & the pair of quarters being compared.
 
-### Testing Folder Directory Tree
+### Automation_Testing_Folder Directory Tree
 <img src="Images/Testing_File_Directory_Tree.png" width="80%">
 
 ### What's included in this repository?
